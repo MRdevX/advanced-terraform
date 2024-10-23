@@ -2,7 +2,7 @@
 provider "google" {
   project = "advanced-terraform-439513" #replace this with your project-id
   region  = "us-central1"
-  zone    = "us-central1-a"
+  zone    = "us-central1-c"
 }
 
 ### NETWORK
